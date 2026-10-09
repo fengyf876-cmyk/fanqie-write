@@ -1,0 +1,10 @@
+interface:
+  display_name: Fanqie Audiobook Story Studio
+  short_description: 多受众网文与有声书规划，强化成人网文吸引力并隔离样本规则
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
